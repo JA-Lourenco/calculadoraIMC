@@ -15,3 +15,7 @@
 
 *Primeiro contato com React*
 
+#### Intruções para executar o projeto
+
+[Create React App](https://github.com/JA-Lourenco/calculadoraIMC/blob/main/src/reactReadMe.md)
+
