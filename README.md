@@ -19,6 +19,4 @@
 
 [Create React App](https://github.com/JA-Lourenco/calculadoraIMC/blob/main/src/reactReadMe.md)
 
-![image](https://user-images.githubusercontent.com/93841387/153110242-573cd972-edc5-42af-ba86-efda1d5cc04a.png)
-
 
